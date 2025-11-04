@@ -1,0 +1,6 @@
+int main {
+  int x = 10;
+  if (x >= 10) x = x + 1;
+  /* comentário teste */
+  return x;
+}

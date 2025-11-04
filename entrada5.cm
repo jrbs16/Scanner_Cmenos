@@ -1,0 +1,5 @@
+int x;
+x = 5 # 3;  /* # é inválido */
+int y;
+/* comentário sem fechamento
+y = 7;

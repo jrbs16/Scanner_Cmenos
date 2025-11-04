@@ -2,7 +2,7 @@
 Scanner para C-
 #############
 
-O programa implementa um analisador léxico para a linguagem C-. O scanner realiza a varredura de um código e identifica  tokens e símbolos espseciais. Os comentários são reconhecidos e ignorados.
+O programa implementa um analisador léxico para a linguagem C-. O scanner realiza a varredura de um código e identifica  tokens e símbolos especiais. Os comentários são reconhecidos e ignorados.
 
 ########
 Aluno: Jarbas Ribeiro  

@@ -18,11 +18,13 @@ Funcionalidades Principais
 
 Requisitos
 #######
+
 É necessário o compilador GCC. O programa foi testado com o GCC versão 13.3.0.
 O programa foi testado no linux ubuntu.
 
 Rodando o programa
 ##########
+
 1. Compilar o arquivo "gcc -std=c11 -O0 -g -Wall -Wextra scanner_cminus.c -o scanner.exe"
 2. Executar o arquivo .exe, informando qual arquivo de entrada será escaneado.
 "./scanner.exe arquivo_de_entrada.cm"
